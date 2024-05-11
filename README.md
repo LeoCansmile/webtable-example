@@ -1,2 +1,2 @@
 # webtable-example
-Macam macam table style yg berbeda
+Contoh html dan css table
